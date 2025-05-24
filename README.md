@@ -18,4 +18,5 @@ Solutech is a beautifully designed, responsive SaaS product landing page built u
 
 ## 📸 Screenshots
 
-![screencapture-localhost-5173-2025-05-24-21_33_52](https://github.com/user-attachments/assets/cb9f3816-2500-4a87-b398-8e0114be6036)
+![screencapture-localhost-5173-2025-05-24-21_51_55](https://github.com/user-attachments/assets/a7ac6354-08dd-4b69-8d49-100032e98d3f)
+
