@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <section className="w-full min-h-screen flex flex-col justify-center items-center text-center px-6 py-20 bg-gradient-to-r from-purple-700 via-purple-600 to-pink-500 text-white font-[Poppins]">
+    <section className="w-full min-h-screen flex flex-col justify-center items-center text-center px-6 py-20 bg-gradient-to-r from-purple-700 via-purple-600 to-pink-500 text-white font-[Poppins]" id="contact">
       <h2 className="text-4xl md:text-5xl font-extrabold leading-tight max-w-3xl">
         Ready to elevate your business? <br /> Let’s build something amazing together.
       </h2>

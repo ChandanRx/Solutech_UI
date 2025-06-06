@@ -15,7 +15,7 @@ const Footer = () => {
 
                 {/* Navigation Links */}
                 <nav className="w-full md:w-1/3 flex justify-center space-x-8 font-semibold text-lg">
-                    {['Home', 'Features', 'Services', 'Testimonials', 'Contact'].map((item) => (
+                    {['Home', 'Features', 'Services', 'Contact'].map((item) => (
                         <a
                             key={item}
                             href="#"

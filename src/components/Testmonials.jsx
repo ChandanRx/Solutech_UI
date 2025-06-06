@@ -18,7 +18,7 @@ const Testimonials = () => {
   ];
 
   return (
-    <section className="w-full min-h-screen px-6 md:px-20 py-24 bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500 text-white font-[Poppins]">
+    <section className="w-full min-h-screen px-6 md:px-20 py-24 bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500 text-white font-[Poppins]" id="testimonials">
       <div className="text-center max-w-3xl mx-auto mb-16">
         <h1 className="text-4xl sm:text-5xl font-extrabold mb-4">Customer Testimonials</h1>
         <p className="text-purple-200 text-lg">

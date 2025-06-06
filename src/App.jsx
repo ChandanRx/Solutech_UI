@@ -9,7 +9,7 @@ import NavbarHeader from './components/NavbarHeader'
 import Services from './components/Services'
 import Testmonials from './components/Testmonials'
 import WhyChooseUs from './components/WhyChooseUs'
-import TrustedBrandsSection from './components/TrustedBrandsSection'
+import Sliders from './components/Sliders'
 
 function App() {
 
@@ -18,7 +18,7 @@ function App() {
      <NavbarHeader/>
      <Hero/>
      <WhyChooseUs/>
-     <TrustedBrandsSection/>
+     <Sliders/>
      <Features1/>
      <Features2/>
      <Features3/>
